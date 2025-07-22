@@ -10,8 +10,11 @@ This mod would have never been possible without the contribution of [myst6re](ht
 
 # How to use
 
-> **PLEASE NOTE:** You can also import the mod manually by downloading the ZIP from the [releases page](https://github.com/tsunamods-codes/the-debug-room/releases) and import it via 7th Heaven as a folder
+> **PLEASE NOTE:** You can also import the mod manually by downloading the IROJ from the [releases page](https://github.com/tsunamods-codes/the-debug-room/releases) and import it via Junction VIII manually
 
 - Install the mod from the catalog
-- Make sure the `save` folder is in the `Additional Folders to Watch` list, in the `Settings -> General Settings` page
+- Make sure that:
+  - You are at least on Junction VIII 1.2.2.22 or newer version
+  - You are at least on FFNx 1.22.0.69 or newer version
+  - In the `Additional Folders to Watch` list, in the `Settings -> General Settings` page, you have the `save` and `override` folders
 - Enable the mod and load the Slot 1 -> Save 1 to enter the debug room
